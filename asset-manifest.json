@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Project-Task-Tracker-Single-Page/static/css/main.7f858e96.css",
+    "main.js": "/React-Project-Task-Tracker-Single-Page/static/js/main.ba791ea3.js",
+    "index.html": "/React-Project-Task-Tracker-Single-Page/index.html",
+    "main.7f858e96.css.map": "/React-Project-Task-Tracker-Single-Page/static/css/main.7f858e96.css.map",
+    "main.ba791ea3.js.map": "/React-Project-Task-Tracker-Single-Page/static/js/main.ba791ea3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f858e96.css",
+    "static/js/main.ba791ea3.js"
+  ]
+}
