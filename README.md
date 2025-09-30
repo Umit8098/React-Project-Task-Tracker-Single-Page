@@ -122,10 +122,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com/), [Nod
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Umit8098/React-Project-Tutorial-FullStack.git
+$ git clone https://github.com/Umit8098/React-Project-Task-Tracker-Single-Page.git
 
 # Navigate into the project folder
-$ cd React-Project-Tutorial-FullStack
+$ cd React-Project-Task-Tracker-Single-Page
 
 # Install dependencies
 $ yarn  
